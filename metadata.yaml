@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5001'
     url: http://www.gutenberg.org/2009/agents/5001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13331#Bell-s-Cathedrals--The-Cathedral-Church-of-Chichester--1901---13-Diocese-And-See
 gutenberg_bookshelf:
 - United Kingdom
 - Architecture
