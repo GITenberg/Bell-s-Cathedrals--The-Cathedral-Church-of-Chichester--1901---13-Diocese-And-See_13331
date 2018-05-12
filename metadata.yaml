@@ -1,0 +1,29 @@
+_repo: Bell-s-Cathedrals--The-Cathedral-Church-of-Chichester--1901---13-Diocese-And-See_13331
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Corlette, Hubert C. (Hubert Christian)
+    alias: Corlette, Hubert Christian
+    gutenberg_agent_id: '5001'
+    url: http://www.gutenberg.org/2009/agents/5001
+description: ''
+gutenberg_bookshelf:
+- United Kingdom
+- Architecture
+gutenberg_issued: '2004-08-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13331'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'NA'
+- !lcsh 'Chichester Cathedral'
+title: "Bell's Cathedrals: The Cathedral Church of Chichester (1901)\r\nA Short History\
+  \ & Description of Its Fabric with an Account of the Diocese and See"
+url: http://www.gutenberg.org/ebooks/13331
